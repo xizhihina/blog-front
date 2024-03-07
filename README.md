@@ -60,5 +60,5 @@ npm run build
 ```
 
 
-需要与后端项目(之后会更新)共同运行，否则无法达到预期效果
+需要与后端项目(https://github.com/xizhihina/blog-back)共同运行，否则无法达到预期效果
 后端项目我使用的是springboot，后端接口地址在src\utils\opt.ts的baseURL，按需更改即可
